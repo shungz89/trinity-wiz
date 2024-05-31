@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#0077B6</color>
+    <color name="colorcccccc">#CCCCCC</color>
+    <color name="color96d3f2">#96D3F2</color>
+    <color name="color06032696">#06032696</color>
+    <color name="bottom_nav_color">#0077B6</color> <!-- Example color -->
+
+
+
 </resources>
